@@ -1,0 +1,13 @@
+STEPS:- (to run through xampp-tomcat)
+
+1. clone this repo at loc "xampp\tomcat\webapps\"
+
+2. start tomcat server in xampp
+
+3. for prac-1 
+      -start mysql server in xampp
+      -'create table prac1(rollno int(5), name varchar(30));' in database 'ejava' in mysql
+
+4. go to url "localhost:8081/java-servlet/"
+      -8081 is my default port for tomcat
+      -if you are using any other port then use that

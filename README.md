@@ -1,2 +1,1 @@
-# java-servlet
-testing ghpages for xampp servers
+Java + JSP + HTML + Tomcat(xampp) + MySQL(xampp)
